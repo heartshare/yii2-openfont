@@ -12,11 +12,11 @@
     ],
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/openfont": "*"
+        "bower-asset/open-font": "*"
     },
     "autoload": {
         "psr-4": {
-            "yii\\bootstrap\\": ""
+            "huijiewei\\openfont\\": ""
         }
     },
 }

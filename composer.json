@@ -1,0 +1,22 @@
+{
+    "name": "huijiewei/yii2-openfont",
+    "description": "Google Open Font Composer Package For Yii 2",
+    "keywords": ["yii2", "openfont"],
+    "license": "GPLv3",
+    "type": "yii2-extension",
+    "authors": [
+        {
+            "name": "Huijie Wei",
+            "email": "huijiewei@outlook.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/openfont": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\\bootstrap\\": ""
+        }
+    },
+}
